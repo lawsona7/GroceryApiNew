@@ -1,0 +1,10 @@
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\GroceryDataAccess.dll.config
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\GroceryDataAccess.dll
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\GroceryDataAccess.pdb
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\EntityFramework.dll
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\EntityFramework.xml
+D:\GitHub\GroceryApi\GroceryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\GroceryApi\GroceryDataAccess\obj\Debug\GroceryDataAccess.csprojResolveAssemblyReference.cache
+D:\GitHub\GroceryApi\GroceryDataAccess\obj\Debug\GroceryDataAccess.dll
+D:\GitHub\GroceryApi\GroceryDataAccess\obj\Debug\GroceryDataAccess.pdb
